@@ -111,6 +111,8 @@ goto out;
 
 ctlr+x then y then enter
 	
+dpkg -l pkg-config
+if not - sudo apt-get install pkg-config
 
 **Step 11:**
 
