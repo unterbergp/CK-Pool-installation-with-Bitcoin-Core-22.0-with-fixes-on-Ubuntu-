@@ -13,7 +13,7 @@ Enter y/yes whenever prompted for response
 We will proceed with the installation of CK pool
 
 
-Clone the ckpool repo with this command:
+Clone the ckpool-solo repo with this command:
 
 `git clone https://bitbucket.org/ckolivas/ckpool/src/master/`
 
